@@ -1,8 +1,8 @@
 Full Name: Hussein Ismael
 
-#Description of the project:
+# Description of the project:
 
-##This project creates three functions:
+## This project creates three functions:
 
 - A Function to check for palindrome.
 
